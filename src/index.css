@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+.bg-striped-dark {
+  background-color: #0a0b0d;
+  background-image: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 6px,
+    rgba(255, 255, 255, 0.08) 6px,
+    rgba(255, 255, 255, 0.08) 8px
+  );
+}
+
+.bg-striped-light {
+  background-color: #f8fafc;
+  background-image: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 6px,
+    rgba(148, 163, 184, 0.28) 6px,
+    rgba(148, 163, 184, 0.28) 8px
+  );
+}
+

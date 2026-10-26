@@ -1,0 +1,6 @@
+{
+  "name": "Custom Chess Sandbox",
+  "description": "A custom chess app where you can arrange pieces, play against a computer with adjustable difficulty, or play single-player offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
